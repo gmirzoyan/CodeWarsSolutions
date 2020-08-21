@@ -4,7 +4,7 @@ function maskify(cc) {
     let str = cc.slice(-4);
     let str1 = '';
     for (let i = 0; i < cc.length - 4; i++){
-        cc[i] === '#';
+        cc[i] = '#';
         str1 = str1 + '#';
     }
     return str1 + str;
