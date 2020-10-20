@@ -6,3 +6,4 @@ function onlyDuplicates(str) {
     return s.filter((el) => s.indexOf(el) !== s.lastIndexOf(el)).join('');
 }
 
+console.log(onlyDuplicates('hello'));
