@@ -6,4 +6,4 @@ function findScreenHeight(width, ratio) {
     return `${width}x${result}`;
 }
 
-console.log(findScreenHeight((1024,"4:3"));
+console.log(findScreenHeight(1024,"4:3"));
