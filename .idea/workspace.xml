@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf6b3e8c-2727-488b-9688-7bfb31c095eb" name="Default Changelist" comment="Add CodeWars Solution 'Consecutive letters'" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fiGSMXcOsRyZvPiSUHPM3rsES4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf6b3e8c-2727-488b-9688-7bfb31c095eb" name="Default Changelist" comment="" />
+      <created>1596693498480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596693498480</updated>
+      <workItem from="1596693499790" duration="971000" />
+      <workItem from="1597820161560" duration="1741000" />
+      <workItem from="1597877591728" duration="620000" />
+      <workItem from="1597911218962" duration="215000" />
+      <workItem from="1598002247699" duration="464000" />
+      <workItem from="1598174546171" duration="482000" />
+      <workItem from="1598256190352" duration="294000" />
+      <workItem from="1598348308478" duration="302000" />
+      <workItem from="1598436685590" duration="315000" />
+      <workItem from="1598519175646" duration="331000" />
+      <workItem from="1598602683531" duration="307000" />
+      <workItem from="1598864579787" duration="224000" />
+      <workItem from="1598953944097" duration="235000" />
+      <workItem from="1599082008179" duration="335000" />
+      <workItem from="1599195365266" duration="609000" />
+      <workItem from="1599287407178" duration="158000" />
+      <workItem from="1599382307389" duration="483000" />
+      <workItem from="1599465764593" duration="335000" />
+      <workItem from="1599557684718" duration="206000" />
+      <workItem from="1599649648184" duration="273000" />
+      <workItem from="1599815629286" duration="284000" />
+      <workItem from="1599906249532" duration="212000" />
+      <workItem from="1599993581181" duration="267000" />
+      <workItem from="1600157946149" duration="437000" />
+      <workItem from="1600763912186" duration="161000" />
+      <workItem from="1601275598077" duration="301000" />
+      <workItem from="1601357970043" duration="287000" />
+      <workItem from="1601446094610" duration="210000" />
+      <workItem from="1601532290018" duration="195000" />
+      <workItem from="1601620027879" duration="340000" />
+      <workItem from="1601707587128" duration="157000" />
+      <workItem from="1601790836513" duration="640000" />
+      <workItem from="1602225684791" duration="239000" />
+      <workItem from="1602478935416" duration="265000" />
+      <workItem from="1602569715560" duration="292000" />
+      <workItem from="1602657340692" duration="227000" />
+      <workItem from="1602743793343" duration="201000" />
+      <workItem from="1603002023146" duration="220000" />
+      <workItem from="1603172666348" duration="903000" />
+      <workItem from="1603431809442" duration="545000" />
+      <workItem from="1603521883797" duration="375000" />
+      <workItem from="1603606888960" duration="340000" />
+      <workItem from="1604038303416" duration="296000" />
+      <workItem from="1604213192414" duration="174000" />
+      <workItem from="1604302938899" duration="436000" />
+      <workItem from="1604389130929" duration="187000" />
+      <workItem from="1604474865261" duration="261000" />
+      <workItem from="1604648376540" duration="201000" />
+      <workItem from="1604730030201" duration="224000" />
+      <workItem from="1604821754121" duration="271000" />
+      <workItem from="1604908056943" duration="304000" />
+      <workItem from="1605166465320" duration="261000" />
+      <workItem from="1605251512720" duration="293000" />
+      <workItem from="1605339877353" duration="133000" />
+      <workItem from="1605510104726" duration="208000" />
+      <workItem from="1605758606207" duration="1085000" />
+      <workItem from="1605900126115" duration="359000" />
+      <workItem from="1605900584992" duration="9023000" />
+      <workItem from="1611472878005" duration="2518000" />
+      <workItem from="1611643812173" duration="20000" />
+      <workItem from="1611643865602" duration="1569000" />
+      <workItem from="1612225825815" duration="3408000" />
+      <workItem from="1613034953278" duration="4261000" />
+      <workItem from="1613910242980" duration="463000" />
+      <workItem from="1613979362897" duration="5432000" />
+      <workItem from="1614756587283" duration="319000" />
+      <workItem from="1614842826906" duration="3575000" />
+      <workItem from="1615534595086" duration="908000" />
+      <workItem from="1615789401946" duration="19599000" />
+      <workItem from="1618985460898" duration="16926000" />
+      <workItem from="1621787201932" duration="13417000" />
+      <workItem from="1625018456077" duration="901000" />
+      <workItem from="1625549745033" duration="5825000" />
+      <workItem from="1629789487874" duration="296000" />
+      <workItem from="1630042350037" duration="3342000" />
+      <workItem from="1631429219745" duration="1135000" />
+      <workItem from="1632810419221" duration="1343000" />
+      <workItem from="1633156750397" duration="2632000" />
+      <workItem from="1635581748717" duration="629000" />
+      <workItem from="1691626601662" duration="53000" />
+    </task>
+    <task id="LOCAL-00152" summary="Add CodeWars Solution 'Coding Meetup #12 - Higher-Order Functions Series - Find GitHub admins'">
+      <created>1621061762075</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1621061762077</updated>
+    </task>
+    <task id="LOCAL-00153" summary="Add CodeWars Solution 'Array Appender'">
+      <created>1621145993841</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1621145993841</updated>
+    </task>
+    <task id="LOCAL-00154" summary="Add CodeWars Solution 'Highest Rank Number in an Array'">
+      <created>1621234267881</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1621234267883</updated>
+    </task>
+    <task id="LOCAL-00155" summary="Add CodeWars Solution 'Player Contact Manager'">
+      <created>1621320200905</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1621320200905</updated>
+    </task>
+    <task id="LOCAL-00156" summary="Add CodeWars Solution 'Divisible by previous digit?'">
+      <created>1621488482533</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1621488482542</updated>
+    </task>
+    <task id="LOCAL-00157" summary="Add CodeWars Solution 'Moving Zeros To The End'">
+      <created>1621578381901</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1621578381902</updated>
+    </task>
+    <task id="LOCAL-00158" summary="Add CodeWars Solution 'Build a square'">
+      <created>1621838307426</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1621838307426</updated>
+    </task>
+    <task id="LOCAL-00159" summary="Add CodeWars Solution 'Whose bicycle?'">
+      <created>1621924620810</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1621924620811</updated>
+    </task>
+    <task id="LOCAL-00160" summary="Add CodeWars Solution 'Write Number in Expanded Form'">
+      <created>1622009546921</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1622009546921</updated>
+    </task>
+    <task id="LOCAL-00161" summary="Add CodeWars Solution 'Find the area of the rectangle!'">
+      <created>1622269780656</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1622269780656</updated>
+    </task>
+    <task id="LOCAL-00162" summary="Add CodeWars Solution 'Inside Out Strings'">
+      <created>1622440150430</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1622440150430</updated>
+    </task>
+    <task id="LOCAL-00163" summary="Add CodeWars Solution 'Move all vowels'">
+      <created>1622529638418</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1622529638418</updated>
+    </task>
+    <task id="LOCAL-00164" summary="Add CodeWars Solution 'All Star Code Challenge #20'">
+      <created>1622616064988</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1622616064989</updated>
+    </task>
+    <task id="LOCAL-00165" summary="Add CodeWars Solution 'Math engine'">
+      <created>1622700653865</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1622700653867</updated>
+    </task>
+    <task id="LOCAL-00166" summary="Add CodeWars Solution 'Rotate for a Max'">
+      <created>1622788325628</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1622788325640</updated>
+    </task>
+    <task id="LOCAL-00167" summary="Add CodeWars Solution 'Grandma learning to text'">
+      <created>1622875338743</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1622875338744</updated>
+    </task>
+    <task id="LOCAL-00168" summary="Add CodeWars Solution 'Sort the Vowels!'">
+      <created>1622962045379</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1622962045379</updated>
+    </task>
+    <task id="LOCAL-00169" summary="Add CodeWars Solution 'Narcissistic Numbers'">
+      <created>1623133971434</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1623133971442</updated>
+    </task>
+    <task id="LOCAL-00170" summary="Add CodeWars Solution 'I'm everywhere!'">
+      <created>1623218095883</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1623218095889</updated>
+    </task>
+    <task id="LOCAL-00171" summary="Add CodeWars Solution 'Which triangle is that?'">
+      <created>1624171136027</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1624171136036</updated>
+    </task>
+    <task id="LOCAL-00172" summary="Add CodeWars Solution 'C.Wars'">
+      <created>1624257593819</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1624257593827</updated>
+    </task>
+    <task id="LOCAL-00173" summary="Add CodeWars Solution 'Find Your Villain Name'">
+      <created>1624344795891</created>
+      <option name="number" value="00173" />
+      <option name="presentableId" value="LOCAL-00173" />
+      <option name="project" value="LOCAL" />
+      <updated>1624344795900</updated>
+    </task>
+    <task id="LOCAL-00174" summary="Add CodeWars Solution 'Heron's formula'">
+      <created>1624515637860</created>
+      <option name="number" value="00174" />
+      <option name="presentableId" value="LOCAL-00174" />
+      <option name="project" value="LOCAL" />
+      <updated>1624515637867</updated>
+    </task>
+    <task id="LOCAL-00175" summary="Add CodeWars Solution 'All Star Code Challenge #24'">
+      <created>1624689320225</created>
+      <option name="number" value="00175" />
+      <option name="presentableId" value="LOCAL-00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1624689320233</updated>
+    </task>
+    <task id="LOCAL-00176" summary="Add CodeWars Solution 'A Letter from Your Niece'">
+      <created>1624775548344</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1624775548348</updated>
+    </task>
+    <task id="LOCAL-00177" summary="Add CodeWars Solution 'Which are in?'">
+      <created>1625122331901</created>
+      <option name="number" value="00177" />
+      <option name="presentableId" value="LOCAL-00177" />
+      <option name="project" value="LOCAL" />
+      <updated>1625122331901</updated>
+    </task>
+    <task id="LOCAL-00178" summary="Add CodeWars Solution 'Find the Squares'">
+      <created>1625549946943</created>
+      <option name="number" value="00178" />
+      <option name="presentableId" value="LOCAL-00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1625549946944</updated>
+    </task>
+    <task id="LOCAL-00179" summary="Add CodeWars Solution 'Salesman's Travel'">
+      <created>1625725999104</created>
+      <option name="number" value="00179" />
+      <option name="presentableId" value="LOCAL-00179" />
+      <option name="project" value="LOCAL" />
+      <updated>1625725999105</updated>
+    </task>
+    <task id="LOCAL-00180" summary="Add CodeWars Solution 'HTML dynamic color string generation'">
+      <created>1625800295489</created>
+      <option name="number" value="00180" />
+      <option name="presentableId" value="LOCAL-00180" />
+      <option name="project" value="LOCAL" />
+      <updated>1625800295489</updated>
+    </task>
+    <task id="LOCAL-00181" summary="Add CodeWars Solution 'Change two-dimensional array'">
+      <created>1625899589558</created>
+      <option name="number" value="00181" />
+      <option name="presentableId" value="LOCAL-00181" />
+      <option name="project" value="LOCAL" />
+      <updated>1625899589558</updated>
+    </task>
+    <task id="LOCAL-00182" summary="Add CodeWars Solution 'Middle Me'">
+      <created>1626158111854</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1626158111854</updated>
+    </task>
+    <task id="LOCAL-00183" summary="Add CodeWars Solution 'Club Doorman'">
+      <created>1626245834335</created>
+      <option name="number" value="00183" />
+      <option name="presentableId" value="LOCAL-00183" />
+      <option name="project" value="LOCAL" />
+      <updated>1626245834335</updated>
+    </task>
+    <task id="LOCAL-00184" summary="Add CodeWars Solution 'Leap Years'">
+      <created>1628058862467</created>
+      <option name="number" value="00184" />
+      <option name="presentableId" value="LOCAL-00184" />
+      <option name="project" value="LOCAL" />
+      <updated>1628058862467</updated>
+    </task>
+    <task id="LOCAL-00185" summary="Add CodeWars Solution 'Strings: swap vowels' case'">
+      <created>1628490547814</created>
+      <option name="number" value="00185" />
+      <option name="presentableId" value="LOCAL-00185" />
+      <option name="project" value="LOCAL" />
+      <updated>1628490547815</updated>
+    </task>
+    <task id="LOCAL-00186" summary="Add CodeWars Solution 'Letterbox Paint-Squad'">
+      <created>1628578390246</created>
+      <option name="number" value="00186" />
+      <option name="presentableId" value="LOCAL-00186" />
+      <option name="project" value="LOCAL" />
+      <updated>1628578390257</updated>
+    </task>
+    <task id="LOCAL-00187" summary="Add CodeWars Solution 'Highest Scoring Word'">
+      <created>1630042534564</created>
+      <option name="number" value="00187" />
+      <option name="presentableId" value="LOCAL-00187" />
+      <option name="project" value="LOCAL" />
+      <updated>1630042534565</updated>
+    </task>
+    <task id="LOCAL-00188" summary="Add CodeWars Solution 'V A P O R C O D E'">
+      <created>1630138286615</created>
+      <option name="number" value="00188" />
+      <option name="presentableId" value="LOCAL-00188" />
+      <option name="project" value="LOCAL" />
+      <updated>1630138286615</updated>
+    </task>
+    <task id="LOCAL-00189" summary="Add CodeWars Solution 'Multiples!'">
+      <created>1630315298738</created>
+      <option name="number" value="00189" />
+      <option name="presentableId" value="LOCAL-00189" />
+      <option name="project" value="LOCAL" />
+      <updated>1630315298738</updated>
+    </task>
+    <task id="LOCAL-00190" summary="Add CodeWars Solution 'All Inclusive?'">
+      <created>1630569811190</created>
+      <option name="number" value="00190" />
+      <option name="presentableId" value="LOCAL-00190" />
+      <option name="project" value="LOCAL" />
+      <updated>1630569811195</updated>
+    </task>
+    <task id="LOCAL-00191" summary="Add CodeWars Solution 'Integer Difference'">
+      <created>1630924223030</created>
+      <option name="number" value="00191" />
+      <option name="presentableId" value="LOCAL-00191" />
+      <option name="project" value="LOCAL" />
+      <updated>1630924223031</updated>
+    </task>
+    <task id="LOCAL-00192" summary="Add CodeWars Solution 'Build Tower'">
+      <created>1631007414997</created>
+      <option name="number" value="00192" />
+      <option name="presentableId" value="LOCAL-00192" />
+      <option name="project" value="LOCAL" />
+      <updated>1631007414999</updated>
+    </task>
+    <task id="LOCAL-00193" summary="Add CodeWars Solution 'Sum of digits'">
+      <created>1631515614008</created>
+      <option name="number" value="00193" />
+      <option name="presentableId" value="LOCAL-00193" />
+      <option name="project" value="LOCAL" />
+      <updated>1631515614012</updated>
+    </task>
+    <task id="LOCAL-00194" summary="Add CodeWars Solution 'Single digit'">
+      <created>1632810540076</created>
+      <option name="number" value="00194" />
+      <option name="presentableId" value="LOCAL-00194" />
+      <option name="project" value="LOCAL" />
+      <updated>1632810540077</updated>
+    </task>
+    <task id="LOCAL-00195" summary="Add CodeWars Solution 'Negative Connotation'">
+      <created>1632895318129</created>
+      <option name="number" value="00195" />
+      <option name="presentableId" value="LOCAL-00195" />
+      <option name="project" value="LOCAL" />
+      <updated>1632895318129</updated>
+    </task>
+    <task id="LOCAL-00196" summary="Add CodeWars Solution 'Password Check - Binary to String'">
+      <created>1633653618165</created>
+      <option name="number" value="00196" />
+      <option name="presentableId" value="LOCAL-00196" />
+      <option name="project" value="LOCAL" />
+      <updated>1633653618174</updated>
+    </task>
+    <task id="LOCAL-00197" summary="Add CodeWars Solution 'Are they square?'">
+      <created>1634019936407</created>
+      <option name="number" value="00197" />
+      <option name="presentableId" value="LOCAL-00197" />
+      <option name="project" value="LOCAL" />
+      <updated>1634019936418</updated>
+    </task>
+    <task id="LOCAL-00198" summary="Add CodeWars Solution 'Frequency sequence'">
+      <created>1634022574359</created>
+      <option name="number" value="00198" />
+      <option name="presentableId" value="LOCAL-00198" />
+      <option name="project" value="LOCAL" />
+      <updated>1634022574359</updated>
+    </task>
+    <task id="LOCAL-00199" summary="Add CodeWars Solution 'Odd Ones Out!'">
+      <created>1634281149157</created>
+      <option name="number" value="00199" />
+      <option name="presentableId" value="LOCAL-00199" />
+      <option name="project" value="LOCAL" />
+      <updated>1634281149165</updated>
+    </task>
+    <task id="LOCAL-00200" summary="Add CodeWars Solution 'Consecutive letters'">
+      <created>1635581860861</created>
+      <option name="number" value="00200" />
+      <option name="presentableId" value="LOCAL-00200" />
+      <option name="project" value="LOCAL" />
+      <updated>1635581860862</updated>
+    </task>
+    <option name="localTasksCounter" value="201" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add CodeWars Solution 'A Letter from Your Niece'" />
+    <MESSAGE value="Add CodeWars Solution 'Which are in?'" />
+    <MESSAGE value="Add CodeWars Solution 'Find the Squares'" />
+    <MESSAGE value="Add CodeWars Solution 'Salesman's Travel'" />
+    <MESSAGE value="Add CodeWars Solution 'HTML dynamic color string generation'" />
+    <MESSAGE value="Add CodeWars Solution 'Change two-dimensional array'" />
+    <MESSAGE value="Add CodeWars Solution 'Middle Me'" />
+    <MESSAGE value="Add CodeWars Solution 'Club Doorman'" />
+    <MESSAGE value="Add CodeWars Solution 'Leap Years'" />
+    <MESSAGE value="Add CodeWars Solution 'Strings: swap vowels' case'" />
+    <MESSAGE value="Add CodeWars Solution 'Letterbox Paint-Squad'" />
+    <MESSAGE value="Add CodeWars Solution 'Highest Scoring Word'" />
+    <MESSAGE value="Add CodeWars Solution 'V A P O R C O D E'" />
+    <MESSAGE value="Add CodeWars Solution 'Multiples!'" />
+    <MESSAGE value="Add CodeWars Solution 'All Inclusive?'" />
+    <MESSAGE value="Add CodeWars Solution 'Integer Difference'" />
+    <MESSAGE value="Add CodeWars Solution 'Build Tower'" />
+    <MESSAGE value="Add CodeWars Solution 'Sum of digits'" />
+    <MESSAGE value="Add CodeWars Solution 'Single digit'" />
+    <MESSAGE value="Add CodeWars Solution 'Negative Connotation'" />
+    <MESSAGE value="Add CodeWars Solution 'Password Check - Binary to String'" />
+    <MESSAGE value="Add CodeWars Solution 'Are they square?'" />
+    <MESSAGE value="Add CodeWars Solution 'Frequency sequence'" />
+    <MESSAGE value="Add CodeWars Solution 'Odd Ones Out!'" />
+    <MESSAGE value="Add CodeWars Solution 'Consecutive letters'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add CodeWars Solution 'Consecutive letters'" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="179" key="Vcs.Push.Dialog.v2" timestamp="1635581863937">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="320" y="179" key="Vcs.Push.Dialog.v2/0.23.1440.832@0.23.1440.832" timestamp="1635581863937" />
+  </component>
+</project>
